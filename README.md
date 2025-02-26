@@ -7,8 +7,7 @@ This project fine-tunes the **BERT (bert-base-uncased)** model on the **IMDb mov
 ## 📂 Project Structure
 
 my-ai-ml-project/
-├── docker_setup/
-│   ├── train.py            # Training script
+├── train.py           # Training script
 ├── Dockerfile              # Docker setup
 ├── requirements.txt        # Dependencies
 ├── README.md               # Documentation (this file)
