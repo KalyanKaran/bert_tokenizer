@@ -30,16 +30,16 @@ my-ai-ml-project/
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-repo/my-ai-ml-project.git
-cd my-ai-ml-project
+git clone https://github.com/KalyanKaran/bert_tokenizer.git
+cd bert_tokenizer
 
 2️⃣ Build the Docker Image
 
-docker build -t my-ai-ml-project .
+docker build -t bert_tokenizer .
 
 3️⃣ Run the Training Process
 
-docker run --rm my-ai-ml-project
+docker run --rm bert_tokenizer
 
 🎯 Expected Output
 	•	Training progress (loss, accuracy) printed every 100 steps
